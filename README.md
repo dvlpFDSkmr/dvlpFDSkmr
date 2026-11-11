@@ -1,59 +1,54 @@
-<div align="center">
+ <div align="center">
 
-# 👋
+### SOFTWARE DEVELOPMENT
 
-**Web Development · Backend · Problem Solving**
+**Web Engineering · Backend Systems · Problem Solving**
 
-Learning software engineering fundamentals.
-
-<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://google.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+Building practical applications and strengthening software engineering fundamentals.
 
 </div>
 
 ---
 
-### `$ whoami`
+### About
 
-```text
-├── 💻 Focus — Web & Backend Development
-├── 🧠 Problem Solving — C++ / DSA
-└── 📍 Punjab, India
-```
-### `> language stats`
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Devkumar2024/github-stats/generated/overview.svg" />
-  <img src="https://raw.githubusercontent.com/Devkumar2024/github-stats/generated/languages.svg" />
-</p>
+- Working with JavaScript, React and TypeScript.
+- Exploring backend development, REST APIs and databases.
+- Practicing Data Structures and Algorithms with C++.
+- Focused on writing clean, maintainable and reliable code.
 
-### `> tech`
+### Technology
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,github,vscode,mysql&perline=8" />
-</p>
+| Area | Technologies |
+|---|---|
+| Languages | JavaScript · TypeScript · C++ |
+| Frontend | React · HTML · CSS |
+| Backend | Node.js · REST APIs |
+| Database | MySQL |
+| Tools | Git · GitHub · VS Code |
 
 <div align="center">
 
-**Working with** `HTML` · `CSS` · `JavaScript` · `C++` · `Git` · `GitHub` · `MySQL`
-
-**Exploring next** `React` · `Backend Development` · `APIs`
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,react,nodejs,mysql,html,css,git,github,vscode&perline=11" alt="Technology stack" />
 
 </div>
 
-### `> currently`
+### GitHub Analytics
 
-```yaml
-building:      Web development projects
-learning:      JavaScript → React → Backend
-practicing:    C++ & Data Structures
-improving:     Git workflows & project documentation
-```
+<div align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=dvlpFDSkmr&custom_title=GitHub%20Overview&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=github_dark" height="145" alt="GitHub statistics" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dvlpFDSkmr&layout=compact&hide_border=true&custom_title=Languages&theme=github_dark" height="145" alt="Most used languages" />
+</div>
+
+### Current Focus
+
+- **Frontend:** React, TypeScript and component architecture
+- **Backend:** Node.js, REST APIs and database fundamentals
+- **Computer Science:** DSA, problem solving and core concepts
+- **Engineering:** Debugging, code quality and Git workflows
 
 ---
 
 <div align="center">
-
-**Build. Break. Debug. Repeat.**
-
-<sub>Always learning — one commit at a time.</sub>
-
+<sub>BUILD · LEARN · IMPROVE</sub>
 </div>
