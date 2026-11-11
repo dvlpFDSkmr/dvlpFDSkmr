@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Dev Kumar
+# 👋 Hey,
 
 **Web Development · Backend · Problem Solving**
 
