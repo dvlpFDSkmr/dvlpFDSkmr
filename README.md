@@ -38,6 +38,7 @@ Building practical applications and strengthening software engineering fundament
 <div align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=dvlpFDSkmr&custom_title=GitHub%20Overview&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=github_dark" height="145" alt="GitHub statistics" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dvlpFDSkmr&layout=compact&hide_border=true&custom_title=Languages&theme=github_dark" height="145" alt="Most used languages" />
+ <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dvlpFDSkmr&layout=compact" />
 </div>
 
 ### Current Focus
