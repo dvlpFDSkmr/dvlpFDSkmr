@@ -1,55 +1,61 @@
- <div align="center">
+<div align="center">
 
-### SOFTWARE DEVELOPMENT
+# 👋
 
-**Web Engineering · Backend Systems · Problem Solving**
+**Web Development · Backend · Problem Solving**
 
-Building practical applications and strengthening software engineering fundamentals.
+Learning software engineering fundamentals.
+
+<a href="https://github.com/dvlpFDSkmr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
 ---
 
-### About
+### `$ whoami`
 
-- Working with JavaScript, React and TypeScript.
-- Exploring backend development, REST APIs and databases.
-- Practicing Data Structures and Algorithms with C++.
-- Focused on writing clean, maintainable and reliable code.
+<pre>
+├── 💻 Focus — Web & Backend Development
+├── 🧠 Problem Solving — C++ / DSA
+└── 🌐 Status — Always learning, always building
+</pre>
 
-### Technology
+### `> stats` (Public + Private)
 
-| Area | Technologies |
-|---|---|
-| Languages | JavaScript · TypeScript · C++ |
-| Frontend | React · HTML · CSS |
-| Backend | Node.js · REST APIs |
-| Database | MySQL |
-| Tools | Git · GitHub · VS Code |
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
+
+### `> tech`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,github,vscode,mysql&perline=8" />
+</p>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,react,nodejs,mysql,html,css,git,github,vscode&perline=11" alt="Technology stack" />
+**Working with** `HTML` · `CSS` · `JavaScript` · `C++` · `Git` · `GitHub` · `MySQL`
+
+**Exploring next** `React` · `Backend Development` · `APIs`
 
 </div>
 
-### GitHub Analytics
+### `> currently`
 
-<div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=dvlpFDSkmr&custom_title=GitHub%20Overview&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=github_dark" height="145" alt="GitHub statistics" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dvlpFDSkmr&layout=compact&hide_border=true&custom_title=Languages&theme=github_dark" height="145" alt="Most used languages" />
- <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dvlpFDSkmr&layout=compact" />
-</div>
-
-### Current Focus
-
-- **Frontend:** React, TypeScript and component architecture
-- **Backend:** Node.js, REST APIs and database fundamentals
-- **Computer Science:** DSA, problem solving and core concepts
-- **Engineering:** Debugging, code quality and Git workflows
+<pre>
+building:      Web development projects
+learning:      JavaScript → React → Backend
+practicing:    C++ & Data Structures
+improving:     Git workflows & project documentation
+</pre>
 
 ---
 
 <div align="center">
-<sub>BUILD · LEARN · IMPROVE</sub>
+
+**Build. Break. Debug. Repeat.**
+
+<sub>Always learning — one commit at a time.</sub>
+
 </div>
