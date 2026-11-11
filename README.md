@@ -4,9 +4,9 @@
 
 **Web Development · Backend · Problem Solving**
 
-B.Tech IT graduate focused on building practical web applications and developing strong software engineering fundamentals.
+Learning software engineering fundamentals.
 
-<a href="https://github.com/Devkumar2024"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://google.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://google.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
@@ -15,8 +15,6 @@ B.Tech IT graduate focused on building practical web applications and developing
 ### `$ whoami`
 
 ```text
-Dev Kumar
-├── 🎓 B.Tech — Information Technology
 ├── 💻 Focus — Web & Backend Development
 ├── 🧠 Problem Solving — C++ / DSA
 └── 📍 Punjab, India
