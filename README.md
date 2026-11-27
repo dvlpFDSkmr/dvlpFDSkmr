@@ -27,7 +27,7 @@ Learning software engineering fundamentals.
 ### `> tech`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,github,postgres,vscode,mysql&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,github,postgres,vscode,prisma&perline=8" />
 </p>
 
 <div align="center">
