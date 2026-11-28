@@ -2,9 +2,7 @@
 
 # 👋
 
-**Web Development · Backend · Problem Solving**
-
-Learning software engineering fundamentals.
+**Learning software engineering fundamentals.**
 
 </div>
 ---
